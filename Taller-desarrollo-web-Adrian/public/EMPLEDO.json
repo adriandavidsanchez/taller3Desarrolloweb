@@ -1,0 +1,40 @@
+[
+    {
+        "nombre": "Luis Fernández",
+        "cargo": "Ingeniero",
+        "departamento": "Ventas",
+        "salario": 52000
+    },
+
+    {
+        "nombre": "Ana López",
+        "cargo": "Gerente",
+        "departamento": "Finanzas",
+        "salario": 62000
+    },
+
+    {
+        "nombre":"Miguel Torres",
+        "cargo": "Desarrollador",
+        "departamento": "Ventas",
+        "salario": 57000
+    },
+    {
+        "nombre": "Sofía Ramírez",
+        "cargo": "Analista",
+        "departamento": "Marketing",
+        "salario": 55000
+    },
+    {
+        "nombre": "Carlos Pendejo",
+        "cargo": "Desarrollador",
+        "departamento": "ventas",
+        "salario": 5000
+    },
+    {
+        "nombre": "Juanito perez",
+        "cargo": "Doctor",
+        "departamento": "Salud",
+        "salario": 120000
+    }
+]

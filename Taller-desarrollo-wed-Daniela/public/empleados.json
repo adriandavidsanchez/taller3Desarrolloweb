@@ -1,0 +1,33 @@
+[
+    {
+        "nombre": "Adrianb",
+        "cargo": "Desarrollador",
+        "departamento": "Tecnologías",
+        "salario": "30000000"
+    },
+    {
+        "nombre": "Daniela",
+        "cargo": "Desarrollador",
+        "departamento": "Creativo",
+        "salario": "566677"
+    },
+    {
+        "nombre": "Bryam",
+        "cargo": "Desarrollador",
+        "departamento": "desarrollador",
+        "salario": "40000"
+
+
+
+    },
+
+    {
+        "nombre": "jeisson ibarraguen",
+        "cargo": "desarrolador senior",
+        "departamento": "desarrollador",
+        "salario": "8000000"
+
+
+        
+    }
+]

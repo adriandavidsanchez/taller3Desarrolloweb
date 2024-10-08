@@ -1,0 +1,7 @@
+[
+    {"nombre": "Adrian Sanchez", "cargo": "Desarrollador", "departamento": "TIC", "salario": 500},
+    {"nombre": "Daniela Vanegas", "cargo": "tester", "departamento": "Probador", "salario": 700},
+    {"nombre": "Camila Usuaga", "cargo": "Gerente", "departamento": "Ventas", "salario": 900},
+    {"nombre": "Jeisson", "cargo": "Docente", "departamento": "enseñanza", "salario": 1200},
+    {"nombre": "Maicol", "cargo": "Nada", "departamento": "Pereza", "salario": 1}
+]
